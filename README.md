@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shubuu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **Html,Css,Js,React JS**
+- 💬 Ask me about **Html, CSS, Js, React JS,React Native,tailwind , bootstrap**
 
 - 📫 How to reach me **shubhamhandergule77@gmail.com**
 
