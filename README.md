@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **Html, CSS, Js, React JS,React Native,tailwind , bootstrap**
+- 💬 Ask me about **Html, CSS, Js, React JS, React Native, Tailwind, Bootstrap**
 
 - 📫 How to reach me **shubhamhandergule77@gmail.com**
 
