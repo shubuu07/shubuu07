@@ -1,21 +1,91 @@
-<h1 align="center">Hi 👋, I'm Shubuu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 🌱 I’m currently learning **MERN**
-
-- 💬 Ask me about **Html, CSS, Js, React JS, React Native, Tailwind, Bootstrap**
-
-- 📫 How to reach me **shubhamhandergule77@gmail.com**
-
-- ⚡ Fun fact **I think i am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shuboo07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shuboo07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubuu07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubuu07" height="30" width="40" /></a>
-<a href="https://fb.com/shubuam handergule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubuam handergule" height="30" width="40" /></a>
-<a href="https://instagram.com/__shubuu07__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__shubuu07__" height="30" width="40" /></a>
+<!-- ====================== HERO SECTION ====================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=30&width=1000&lines=Hi+👋,+I'm+Shubham+Handergule;Frontend+Engineer+%7C+React+Specialist;Building+High-Performance+Web+%26+Mobile+Apps;Clean+Architecture+%7C+Scalable+Systems;Performance+%7C+UX+%7C+Maintainability" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Thane%20%7C%20Mumbai-0f172a?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Experience-Production%20Ready-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Specialization-React%20Ecosystem-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Performance%20%26%20Architecture-0f172a?style=for-the-badge"/>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+<img align="right" width="300" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" />
+
+
+
+Frontend Engineer specializing in building **scalable, maintainable, and performance-optimized** web & mobile applications.
+
+I design systems — not just components.
+
+#### ⚡ What Defines My Work
+
+- ⚛️ Advanced React & React Native architecture  
+- ⚡ Rendering optimization & performance tuning  
+- 🧩 Reusable component systems  
+- 🏗 Clean folder structure & scalable codebase design  
+- 📦 Production-grade deployment workflows  
+
+Currently expanding into **Full-Stack (MERN) & System Design**.
+
+---
+
+## 💼 Engineering Impact
+
+- 🚀 Built scalable frontend architectures  
+- 📦 Developed reusable UI systems (30+ components structured)  
+- ⚡ Improved rendering efficiency using memoization & lazy loading  
+- 🔄 Structured API integrations with optimized async handling  
+- 🛠 Debugged and resolved production-level issues  
+
+
+### 🚀 Frontend
+React • React Native • TypeScript • JavaScript (ES6+)  
+HTML5 • CSS3 • Tailwind CSS • Bootstrap  
+
+### 🧠 State & Data
+Redux Toolkit • Context API • React Query  
+REST APIs • Axios • Firebase  
+
+### 🛠 Backend
+Node.js • Express.js • MongoDB  
+
+### ⚙️ Tools & Workflow
+Git • GitHub • Postman • VS Code • Figma  
+Vercel • Netlify  
+
+## 🌐 Portfolio Website
+Modern responsive portfolio built with React & Tailwind CSS  
+✔ Performance optimized  
+✔ SEO friendly  
+✔ Clean UI architecture  
+
+🔗 https://shubuu-protfolio.netlify.app/
+
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubuu7">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/Shubuu_07">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:shubhamhandergule77@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+## 💡 Philosophy
+
+<p align="center">
+  <i>Build with clarity. Architect for scale. Optimize for performance.</i>
+</p>
+
