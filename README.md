@@ -1,6 +1,7 @@
 <!-- ====================== HERO SECTION ====================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=30&width=1000&lines=Hi+👋,+I'm+Shubham+Handergule;Frontend+Engineer+%7C+React+Specialist;Building+High-Performance+Web+%26+Mobile+Apps;Clean+Architecture+%7C+Scalable+Systems;Performance+%7C+UX+%7C+Maintainability" />
+  <img src="https://github.blog/wp-content/themes/github-2021-child/assets/img/featured-v3-deprecations.svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=ef4444&center=true&vCenter=true&size=30&width=1000&lines=Hi+👋,+I'm+Shubham+Handergule;Frontend+Engineer+%7C+React+Specialist;Building+High-Performance+Web+%26+Mobile+Apps;Clean+Architecture+%7C+Scalable+Systems;Performance+%7C+UX+%7C+Maintainability" />
 </p>
 
 <p align="center">
